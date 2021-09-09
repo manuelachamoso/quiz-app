@@ -87,11 +87,11 @@ button {
   cursor: pointer;
 }
 
-.correct {
+.green {
   background-color: #2f922f;
 }
 
-.incorrect {
+.red {
   background-color: #ff3333;
 }
 
